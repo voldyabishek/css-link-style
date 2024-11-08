@@ -1,0 +1,14 @@
+a{
+  text-decoration:none;
+  color:red;
+ cursor:progress;
+ }
+
+ a:hover{
+    background-color:blue;
+}
+
+a:focus{
+     background-color:orange;
+}
+ 
